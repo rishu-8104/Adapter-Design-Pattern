@@ -11,7 +11,7 @@ The Adapter Design Pattern allows objects with incompatible interfaces to collab
 - **Adapter**: The `TurkeyAdapter` class adapts turkey objects to work like duck objects.
 - **FlyBehavior**: Different flying behaviors are implemented as strategies, showing how behaviors can be swapped at runtime.
 
-![alt text](Adapter_Desgin.png)
+![alt text](Adapter_Desgin.jpg)
 
 ## Table of Contents
 
